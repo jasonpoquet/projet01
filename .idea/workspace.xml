@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9f11e1-623e-4c49-baa3-38c9d063c216" name="Default Changelist" comment="">
+    <list default="true" id="cf9f11e1-623e-4c49-baa3-38c9d063c216" name="Default Changelist" comment="test de modification">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +77,10 @@
       <workItem from="1604858073225" duration="786000" />
       <workItem from="1604911857578" duration="39000" />
       <workItem from="1604911897078" duration="6655000" />
-      <workItem from="1605255322871" duration="722000" />
+      <workItem from="1605255322871" duration="1612000" />
+      <workItem from="1605439908112" duration="1417000" />
+      <workItem from="1605441693286" duration="142000" />
+      <workItem from="1605441902577" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="test n2">
       <created>1604917454318</created>
@@ -102,30 +124,51 @@
       <option name="project" value="LOCAL" />
       <updated>1604918604637</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test de modification">
+      <created>1605256189059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605256189059</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test n2" />
     <MESSAGE value="Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2" />
+    <MESSAGE value="test de modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="test de modification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="602" y="142" key="CommitChangelistDialog2" timestamp="1604918604013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="602" y="142" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918604013" />
-    <state x="745" y="146" key="FileChooserDialogImpl" timestamp="1604913749589">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="530" y="102" key="FileChooserDialogImpl" timestamp="1605442034777">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="530" y="102" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604780956596" />
+    <state x="530" y="102" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605442034777" />
     <state x="745" y="146" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604913749589" />
-    <state x="920" y="412" key="Github.ShareDialog" timestamp="1604914151721">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="655" y="288" key="Github.ShareDialog" timestamp="1605442198631">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="655" y="288" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605442198631" />
     <state x="920" y="412" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604914151721" />
     <state x="900" y="212" key="Github.UntrackedFilesDialog" timestamp="1604914414015">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -135,9 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="369" y="274" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604913619837" />
-    <state x="634" y="247" key="Vcs.Push.Dialog.v2" timestamp="1604918609544">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="451" y="173" key="Vcs.Push.Dialog.v2" timestamp="1605256193663">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="451" y="173" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605256193663" />
     <state x="634" y="247" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918609544" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604692309813">
       <screen x="0" y="0" width="1366" height="728" />
